@@ -20,7 +20,7 @@ Outcome: Class variable (0 if non-diabetic, 1 if diabetic);
 
 using Python and some of its popular data science related packages. First of all, we will import pandas to read our data from a CSV file and manipulate it for further use. We will also use numpy to convert out data into a format suitable to feed our classification model. We’ll use seaborn and matplotlib for visualizations. We will then import Logistic Regression algorithm from sklearn. 
 
- Logistic Regression:
+ # Logistic Regression:
  is a Machine Learning classification algorithm that is used to predict the probability of a categorical dependent variable.
 
 # Using K-Nearest Neighbors Algorithm in this Project:
